@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae95b6d7-9ea0-469b-a95d-e3d7537c6459" name="Default" comment="" />
+    <list default="true" id="ae95b6d7-9ea0-469b-a95d-e3d7537c6459" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,7 +46,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="vcs.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="vcs.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -54,44 +56,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3672">
+            <state relative-caret-position="-4536">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1534095620299" expanded="true" signature="37094:37137" ph="..." />
-                <marker date="1534095620299" expanded="true" signature="37094:37155" ph="..." />
-                <marker date="1534095620299" expanded="true" signature="37094:37168" ph="..." />
-                <marker date="1534095620299" expanded="true" signature="37094:37183" ph="..." />
-                <marker date="1534095620299" expanded="true" signature="37218:39786" ph="..." />
-                <marker date="1534095620299" expanded="true" signature="37231:39771" ph="..." />
-                <marker date="1534095620299" expanded="true" signature="37285:37580" ph="..." />
-                <marker date="1534095620299" expanded="true" signature="37304:37565" ph="..." />
-                <marker date="1534095620299" expanded="true" signature="37367:37545" ph="..." />
-                <marker date="1534095620299" expanded="true" signature="37407:37511" ph="..." />
-                <marker date="1534095620299" expanded="true" signature="37428:37489" ph="..." />
-                <marker date="1534095620299" expanded="true" signature="37630:37939" ph="..." />
-                <marker date="1534095620299" expanded="true" signature="37649:37924" ph="..." />
-                <marker date="1534095620299" expanded="true" signature="37726:37904" ph="..." />
-                <marker date="1534095620299" expanded="true" signature="37766:37870" ph="..." />
-                <marker date="1534095620299" expanded="true" signature="37787:37848" ph="..." />
-                <marker date="1534095620299" expanded="true" signature="37990:38255" ph="..." />
-                <marker date="1534095620299" expanded="true" signature="38009:38240" ph="..." />
-                <marker date="1534095620299" expanded="true" signature="38042:38220" ph="..." />
-                <marker date="1534095620299" expanded="true" signature="38082:38186" ph="..." />
-                <marker date="1534095620299" expanded="true" signature="38103:38164" ph="..." />
-                <marker date="1534095620299" expanded="true" signature="38298:38604" ph="..." />
-                <marker date="1534095620299" expanded="true" signature="38317:38589" ph="..." />
-                <marker date="1534095620299" expanded="true" signature="38391:38569" ph="..." />
-                <marker date="1534095620299" expanded="true" signature="38431:38535" ph="..." />
-                <marker date="1534095620299" expanded="true" signature="38452:38513" ph="..." />
-                <marker date="1534095620299" expanded="true" signature="38655:39011" ph="..." />
-                <marker date="1534095620299" expanded="true" signature="38674:38996" ph="..." />
-                <marker date="1534095620299" expanded="true" signature="38752:38976" ph="..." />
-                <marker date="1534095620299" expanded="true" signature="38792:38942" ph="..." />
-                <marker date="1534095620299" expanded="true" signature="38813:38920" ph="..." />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -142,6 +112,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/example/hello/domain/Item.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/hello/ItemsController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/main.mustache" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
     </option>
   </component>
@@ -220,6 +191,11 @@
               <item name="crudApp" type="b2602c69:ProjectViewProjectNode" />
               <item name="crudApp" type="462c0819:PsiDirectoryNode" />
               <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crudApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crudApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -402,12 +378,12 @@
       <workItem from="1534003788167" duration="992000" />
       <workItem from="1534005510151" duration="5282000" />
       <workItem from="1534061854232" duration="13197000" />
-      <workItem from="1534095330263" duration="371000" />
+      <workItem from="1534095330263" duration="1000000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23097000" />
+    <option name="totallyTimeSpent" value="23726000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1920" height="1084" extended-state="6" />
@@ -643,46 +619,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3672">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1534095620299" expanded="true" signature="37094:37137" ph="..." />
-            <marker date="1534095620299" expanded="true" signature="37094:37155" ph="..." />
-            <marker date="1534095620299" expanded="true" signature="37094:37168" ph="..." />
-            <marker date="1534095620299" expanded="true" signature="37094:37183" ph="..." />
-            <marker date="1534095620299" expanded="true" signature="37218:39786" ph="..." />
-            <marker date="1534095620299" expanded="true" signature="37231:39771" ph="..." />
-            <marker date="1534095620299" expanded="true" signature="37285:37580" ph="..." />
-            <marker date="1534095620299" expanded="true" signature="37304:37565" ph="..." />
-            <marker date="1534095620299" expanded="true" signature="37367:37545" ph="..." />
-            <marker date="1534095620299" expanded="true" signature="37407:37511" ph="..." />
-            <marker date="1534095620299" expanded="true" signature="37428:37489" ph="..." />
-            <marker date="1534095620299" expanded="true" signature="37630:37939" ph="..." />
-            <marker date="1534095620299" expanded="true" signature="37649:37924" ph="..." />
-            <marker date="1534095620299" expanded="true" signature="37726:37904" ph="..." />
-            <marker date="1534095620299" expanded="true" signature="37766:37870" ph="..." />
-            <marker date="1534095620299" expanded="true" signature="37787:37848" ph="..." />
-            <marker date="1534095620299" expanded="true" signature="37990:38255" ph="..." />
-            <marker date="1534095620299" expanded="true" signature="38009:38240" ph="..." />
-            <marker date="1534095620299" expanded="true" signature="38042:38220" ph="..." />
-            <marker date="1534095620299" expanded="true" signature="38082:38186" ph="..." />
-            <marker date="1534095620299" expanded="true" signature="38103:38164" ph="..." />
-            <marker date="1534095620299" expanded="true" signature="38298:38604" ph="..." />
-            <marker date="1534095620299" expanded="true" signature="38317:38589" ph="..." />
-            <marker date="1534095620299" expanded="true" signature="38391:38569" ph="..." />
-            <marker date="1534095620299" expanded="true" signature="38431:38535" ph="..." />
-            <marker date="1534095620299" expanded="true" signature="38452:38513" ph="..." />
-            <marker date="1534095620299" expanded="true" signature="38655:39011" ph="..." />
-            <marker date="1534095620299" expanded="true" signature="38674:38996" ph="..." />
-            <marker date="1534095620299" expanded="true" signature="38752:38976" ph="..." />
-            <marker date="1534095620299" expanded="true" signature="38792:38942" ph="..." />
-            <marker date="1534095620299" expanded="true" signature="38813:38920" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/crudApp.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-915">
@@ -711,6 +647,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4536">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
